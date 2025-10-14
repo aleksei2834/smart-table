@@ -30,6 +30,7 @@ export function cloneTemplate(templateId) {
     };
 }
 
+
 /**
  * Преобразует объект FormData в обычный JavaScript-объект (только одиночные значения)
  *
